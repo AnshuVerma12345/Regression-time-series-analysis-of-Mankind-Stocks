@@ -1,0 +1,1 @@
+# Regression-time-series-analysis-of-Mankind-Stocks
